@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 int main()//Md.Tahmid Shah Tamim
-{       //222-35-1141
+{        
         char str[20];
         int i;
         printf("Enter any string: ");
