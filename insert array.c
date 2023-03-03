@@ -1,6 +1,6 @@
  #include<stdio.h>
  main()//MD.TAHMID SHAH TAMIM
- {      //222-35-1141
+ {      
      int arr[6]={10,11,20,40,50};
      int i,pos,n=6,data;
      printf("Enter The Element: ");
