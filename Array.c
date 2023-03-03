@@ -1,6 +1,6 @@
 #include<stdio.h>
 main() //MD.TAHMID SHAH TAMIM
-{      //ID.222-35-1141
+{      
     int arr[5], i;
     printf("Enter any 5 elements: ");
     for(i=0;i<5;i++)
