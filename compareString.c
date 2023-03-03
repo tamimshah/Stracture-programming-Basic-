@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 int main()//Md.Tahmid Shah Tamim
-{       //222-35-1141
+{      
   	char Str1[100], Str2[100];
   	int result,i;
   	printf("Enter the First String: ");
