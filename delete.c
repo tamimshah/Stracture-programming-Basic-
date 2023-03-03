@@ -1,6 +1,6 @@
 #include<stdio.h>
 main()//MD.TAHMID SHAH TAMIM
-{      //222-35-1141
+{       
     int arr[6]={11,24,31,40,5};
     int i,posi;
     printf("Enter The Delete Position: ");
