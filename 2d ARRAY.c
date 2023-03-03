@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()//MD.TAHMID SHAH TAMIM
-{           //222-35-1141
+{            
 	int a[2][2] = {{10, 20}, {30, 70}};
 	int row,col;
 	printf("Print 2D Array Bellow:\n");
