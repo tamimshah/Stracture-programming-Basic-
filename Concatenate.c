@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main() { //Id.222-35-1141
+int main() {  
   char s1[100]="hello ",s2[]="world";
   int len,j;
 
