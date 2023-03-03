@@ -1,7 +1,7 @@
 #include<stdio.h>
 main()
 //MD.TAHMID SHAH TAMIM
-//ID.222-35-1141
+ 
 {
 int n;
 printf("Enter an integer Number:\n");
