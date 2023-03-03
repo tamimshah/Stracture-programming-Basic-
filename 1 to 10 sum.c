@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 { //Md.Tahmid Shah Tamim
-    //Id. 222-35-1141
+     
     int i, sum = 0;
     for (i=1; i<= 10; i++)
     {
