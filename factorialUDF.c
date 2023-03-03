@@ -8,7 +8,7 @@ int fact(int a)
     }
     return result;
 }//MD.TAHMID SHAH TAMIM
-int main()//222-35-1141
+int main() 
 {
     int num;
     printf("Enter Number:");
