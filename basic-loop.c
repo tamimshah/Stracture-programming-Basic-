@@ -2,7 +2,7 @@
 main()
 {
     int i=10; //Md.Tahmid Shah Tamim
-    while(i>0) //222-35-1141
+    while(i>0)  
     {
         printf("Hello World\n");
         i=i-1;
