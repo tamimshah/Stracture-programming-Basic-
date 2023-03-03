@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main() //Md.Tahmid Shah Tamim
-{          //222-35-1141
+{           
     int num,n,rn=0;
     printf("Enter 5 digit number: ");
     scanf("%d",&num);
