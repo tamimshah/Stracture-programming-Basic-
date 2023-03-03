@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include<string.h>
-int main()//222-35-1141
+int main() 
 {   //Md.Tahmid Shah Tamim
   	char str[100],result;
   	int i,len;
