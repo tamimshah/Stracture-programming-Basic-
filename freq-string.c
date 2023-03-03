@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()//Md.Tahmid Shah Tamim
-{       //222-35-1141
+{       
    char str[1000],choice;
    int i,ctr=0;
 	printf("Input the string : ");
