@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main() //MD.TAHMID SHAH TAMIM
-{           //ID.222-35-1141
+{            
     int n,i,fact=1;
     printf("Enter a Number: ");
     scanf("%d",&n);
