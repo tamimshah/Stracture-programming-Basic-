@@ -14,7 +14,7 @@
     printf("maximum array: %d",max);
  }//MD.TAHMID SHAH TAMIM
 int main()
-{   //222-35-1141
+{    
     int a[100],i,n,sum;
     printf("Enter size of the array: ");
     scanf("%d",&n);
